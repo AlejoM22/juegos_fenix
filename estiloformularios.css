@@ -1,33 +1,29 @@
 
-body{
+body {
   margin: 0;
-  font-family: sans-serif;
-  background:#D4D5FF;  
+  font-family: sans-serif, Arial, Helvetica, sans-serif; 
+  background: #C4C5FF;
 }
 
-.form_usuario{
-  width:70%;
-  max-width:500px;
-  margin:auto;
-  background:#B3BFFF;
-  border-radius:9px;
+.form_clientes {
+  width: 70%;
+  max-width: 500px;
+  margin: auto;
+  background: #D4EAF5;
+  border-radius: 9px;
 }
 
-
-.contenedor_registro usuario{
-  text-align:center;
- 
+.contenedor_input {
+  text-align: center;
 }
 
-
-.titulo_form_usuario{
-  background:#B3BFFF;
-  color: #fff;
+.titulo_form_clientes {
+  background: #020202;
+  color: #74D1FF;
   padding: 10px;
-  text-align:center;
-  font-weight:100px;
-  font-zise: 30px;
-  border-top-left-radius: 8px;
-  border-top-right-radius: 8px;
+  text-align: center;
+  font-weight: 100; 
+  font-size: 30px;
+  border-radius: 8px 8px 0 0; 
   border-bottom: 10px solid crimson;
 }
